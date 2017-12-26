@@ -25,3 +25,7 @@
 * 2、DTV UI 优化 <br>
 * 3、timeshift下，stop（OK） <br>
 * 4、information show time 默认为3s （OK） <br>
+
+## 20171227任务 <br>
+
+* 1、Mstar 7T01 IPTV支持.m3u8格式播放<br>
