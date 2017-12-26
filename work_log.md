@@ -23,4 +23,4 @@
 
 * 1、DTV遥控器完善优化 <br>
 * 2、DTV UI 优化 <br>
-
+* 3、timeshift下，stop（OK） <br>
