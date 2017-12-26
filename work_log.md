@@ -10,13 +10,13 @@
 
 ## 20171225
 
-* 1、按menu键正常播放节目（OK）
+* 1、按menu键正常播放节目（OK）:smile:
 
-* 2、info键（OK）
+* 2、info键（OK）:mask:
 
-* 3、recall list 默认为1符合用户习惯
+* 3、recall list 默认为1符合用户习惯 :sunglasses:
 
-* 4、释放Mstar俄罗斯&迪拜参展样机软件T10A、T10B、T10F、T10G（OK）
+* 4、释放Mstar俄罗斯&迪拜参展样机软件T10A、T10B、T10F、T10G（OK）:innocent:
 
 
 ## 20171226任务<br>
