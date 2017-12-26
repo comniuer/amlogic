@@ -1,0 +1,2 @@
+# amlogic
+my log
