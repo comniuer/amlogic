@@ -29,3 +29,5 @@
 ## 20171227任务 <br>
 
 * 1、Mstar 7T01 IPTV支持.m3u8格式播放<br>
+* 2、Option 中增加Antenna Power（ON/OFF），默认OFF(OK) <br>
+* 3、主菜单中back键二级菜单返回一级菜单再返回主菜单（由Sky完成）（OK） <br>
