@@ -38,4 +38,4 @@
 
 * 2、Mstar Divisat添加遥控器新的遥控器  
 
-* 3、更新安卓UI  
+* 3、更新安卓UI（dialog） 
