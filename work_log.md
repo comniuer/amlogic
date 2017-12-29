@@ -19,20 +19,20 @@
 * 4、释放Mstar俄罗斯&迪拜参展样机软件T10A、T10B、T10F、T10G（OK）:innocent:
 
 
-## 20171226任务<br>
+## 20171226<br>
 
 * 1、DTV遥控器完善优化 <br>
 * 2、DTV UI 优化 <br>
 * 3、timeshift下，stop（OK） <br>
 * 4、information show time 默认为3s （OK） <br>
 
-## 20171227任务 <br>
+## 20171227<br>
 
 * 1、Mstar 7T01 IPTV支持.m3u8格式播放<br>
 * 2、Option 中增加Antenna Power（ON/OFF），默认OFF(OK) <br>
 * 3、主菜单中back键二级菜单返回一级菜单再返回主菜单（由Sky完成）（OK） <br>
 
-## 20171228任务 <br>
+## 20171228 <br>
 
 * 1、释放新版本软件给测试部测试，送样给客户升级（IR更新，需要提醒业务）
 
