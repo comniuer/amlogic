@@ -44,4 +44,4 @@
 1、 修复测试部反馈的bug  
 `我的调试机器tuner有问题，poweroff显示0.18v，实际是5v；poweron显示0.31v，实际是0v`  
 2、 了解git  
-3、 
+3、 DTVRecordDevice.java和DTVDeviceBrowser.java经常恢复到R23之前的版本，只能rm然后update，但是第二天或者某一天又恢复到了R23之前的版本  
