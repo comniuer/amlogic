@@ -42,6 +42,6 @@
 
 ## 20171229任务 <br>
 1、 修复测试部反馈的bug  
-* `我的调试机器tuner有问题，poweroff显示0.18v，实际是5v；poweron显示0.31v，实际是0v`  
+`我的调试机器tuner有问题，poweroff显示0.18v，实际是5v；poweron显示0.31v，实际是0v`  
 2、 了解git  
 3、 
