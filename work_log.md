@@ -36,12 +36,12 @@
 
 * 1、释放新版本软件给测试部测试，送样给客户升级（IR更新，需要提醒业务）
 
-* 2、Mstar Divisat添加遥控器新的遥控器  
+* 2、Mstar Divisat添加遥控器新的遥控器(等另外通知)
 
 * 3、更新安卓UI（dialog） 
 
 ## 20171229任务 <br>
-1、 修复测试部反馈的bug  
-`我的调试机器tuner有问题，poweroff显示0.18v，实际是5v；poweron显示0.31v，实际是0v`  
-2、 了解git<br>
-3、 DTVRecordDevice.java和DTVDeviceBrowser.java经常恢复到R23之前的版本，只能rm然后update，但是第二天或者某一天又恢复到了R23之前的版本  
+* 1、 修复测试部反馈的bug  
+`我的调试机器tuner有问题，poweroff显示0.18v，实际是5v；poweron显示0.31v，实际是0v`  
+* 2、 了解git<br>
+* 3、 DTVRecordDevice.java和DTVDeviceBrowser.java经常恢复到R23之前的版本，只能rm然后update，但是第二天或者某一天又恢复到了R23之前的版本   
