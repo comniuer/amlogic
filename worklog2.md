@@ -7,5 +7,10 @@
 1、 优化S2UI  
 ## 20180103 
 1、 信号线电压突然变为了19V，烧坏了一个Mstar调试机；android机器闻到焦味及时拔出，幸存。。。（bruce处理）  
-2、 channel information 修改字体大小，title字符串修改未解决  
-3、 Oklist中green（sort）/blue（filter）中字符串大小未解决
+2、 channel information 修改字体大小，title字符串修改未解决（sky指导完成）  
+3、 Oklist中green（sort）/blue（filter）中字符串大小未解决（sky指导完成）
+## 20180104 
+1、 数字键数字颜色改为白色，加大字体，调整位置  
+2、 解决：数字键换台，按ok键即刻换台（Richard指导完成）  
+3、 Oklist调整位置  
+4、 
