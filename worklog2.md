@@ -13,4 +13,5 @@
 1、 数字键数字颜色改为白色，加大字体，调整位置  
 2、 解决：数字键换台，按ok键即刻换台（Richard指导完成）  
 3、 Oklist调整位置  
-4、 
+4、 channel information 修改字体大小，（sky指导完成）   
+5、 Oklist中green（sort）/blue（filter）（sky指导完成） 
