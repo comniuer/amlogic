@@ -21,3 +21,5 @@
 * manul search 快捷键  
 * 主菜单背景图的问题  
 * audio language 语言少的问题  
+* 联系国芯FM连接I2c方法  
+[I2C]()
