@@ -15,3 +15,9 @@
 3、 Oklist调整位置  
 4、 channel information 修改字体大小，（sky指导完成）   
 5、 Oklist中green（sort）/blue（filter）（sky指导完成） 
+6、 统一主菜单字符串首字母大写  
+## 20180105任务  
+* check for update  
+* manul search 快捷键  
+* 主菜单背景图的问题  
+* audio language 语言少的问题  
