@@ -14,7 +14,7 @@
 2、 解决：数字键换台，按ok键即刻换台（Richard指导完成）  
 3、 Oklist调整位置  
 4、 channel information 修改字体大小，（sky指导完成）   
-5、 Oklist中green（sort）/blue（filter）（sky指导完成） 
+5、 Oklist中green（sort）/blue（filter）（sky指导完成）  
 6、 统一主菜单字符串首字母大写  
 ## 20180105任务  
 * check for update  
