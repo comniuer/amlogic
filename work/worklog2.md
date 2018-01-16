@@ -22,7 +22,7 @@
 * 主菜单背景图的问题  
 * audio language 语言少的问题  
 * 联系国芯FM连接I2c方法  
-[I2C]()
+![text](https://github.com/comniuer/amlogic/blob/master/picture/i2c.png)
 
 1、 **释放Romsat8000、8010、8020机型个给客户升级**(ok)  
 2、 gx3235收音机功能调试（我跟踪，Richard处理，软件进度90%，硬件没好，需要寄送）  
