@@ -11,4 +11,5 @@
 - 修复OKlist中bule键中的bug  
 
 ## 20180116  
-- 
+- 初识python  
+
