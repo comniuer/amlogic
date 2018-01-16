@@ -7,3 +7,6 @@
   
 - 配合样机指标测试技术支持  
 - 解决自动重启问题  
+- 修改DVBS中OKlist/dish UI  
+- 修复OKlist中bule键中的bug  
+
