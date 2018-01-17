@@ -13,3 +13,6 @@
 ## 20180116  
 - 初识python  
 
+## 20180117  
+- 学习git&github  
+[下载stromzhang基础教程](https://github.com/comniuer/amlogic/blob/master/technology/Learn%20GitHub%20from%200.pdf)
