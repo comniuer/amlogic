@@ -13,6 +13,6 @@
 7、 LCN预设为ON 
 ```    
 ## 20180129 
-- 新增网络升级功能（upgrade by net） 
+- gx3235s新增网络升级功能（upgrade by net） 
 - 释放新的订单软件给测试  
 
